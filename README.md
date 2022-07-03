@@ -601,3 +601,28 @@ https://www.bilibili.com/video/BV18s411E7Tj?p=10&spm_id_from=333.880.my_history.
 尚硅谷新版Webpack实战教程(从入门到精通)
 
 https://www.bilibili.com/video/BV1e7411j7T5?p=5&spm_id_from=333.880.my_history.page.click
+
+尚硅谷前端Webpack教程（高级进阶篇）
+
+https://www.bilibili.com/video/BV1cv411C74F?p=4&spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87
+
+使用webpack+vue从零开始打造前端项目(2020最新版)
+
+https://www.bilibili.com/video/BV157411V7Dh?spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87
+
+尚硅谷TypeScript教程（李立超老师TS新课）
+
+https://www.bilibili.com/video/BV1Xy4y1v7S2?p=24&spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87
+
+尚硅谷2022版Nginx教程
+
+https://www.bilibili.com/video/BV1yS4y1N76R?p=17&spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87
+
+【一点教程】Docker+SpringCloud微服务部署
+
+https://www.bilibili.com/video/BV1s5411j7zq?p=27&spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87 
+
+尚硅谷SpringSecurity框架教程（spring security源码剖析从入门到精通）
+
+https://www.bilibili.com/video/BV15a411A7kP?p=4&spm_id_from=333.880.my_history.page.click&vd_source=0e103636919c4187ce4ac5f567e34e87
+
